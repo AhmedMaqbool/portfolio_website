@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Web Scrapping',
-    description: "This a web scraping project made to scrape data from paticular websites",
+    title: 'Google Search Clone',
+    description: "This is a clone website like google.com build using html,sass and javascript it gets it's search results from wikipedia API",
       image: '',
-      tags: ['Node.js', 'Puppeeter'],
-    source: '',
-    visit: 'https://github.com/AhmedMaqbool/web-scrapping',
+      tags: ['Html', 'Sass', 'Javascript'],
+    source: 'https://search-dmny.onrender.com',
+    visit: 'https://github.com/AhmedMaqbool/Search_Website',
     id: 2,
   },
   {
