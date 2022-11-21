@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Google Search Clone',
     description: "This is a clone website like google.com build using html,sass and javascript it gets it's search results from wikipedia API",
-      image: '',
+      image: '/images/3.png',
       tags: ['Html', 'Sass', 'Javascript'],
     source: 'https://search-dmny.onrender.com',
     visit: 'https://github.com/AhmedMaqbool/Search_Website',
